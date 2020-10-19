@@ -1,0 +1,3 @@
+# Príncipio Não Se Repita (DRY)
+
+O princípio diz que não devemos repetir trechos de códigoe também temos que tornar o código o menos ambíguo possível, fazendos isso através de funções reutilizavéis, objeitvas e que podemos compreender. 
